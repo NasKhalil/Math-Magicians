@@ -4,7 +4,7 @@ import buttonNames from './BtnNames';
 import '../App.css';
 
 // eslint-disable-next-line react/prefer-stateless-function
-function Calculator() {
+const Calculator = () => {
   const [calcObject, setCalcObject] = useState({});
 
   function handleClick(e) {
@@ -30,6 +30,6 @@ function Calculator() {
       ))}
     </div>
   );
-}
+};
 
 export default Calculator;
