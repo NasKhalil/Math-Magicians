@@ -86,7 +86,7 @@ To run the CSS linters type the following
 
 ### Author: Khalil Nasri\*\*
 
-- GitHub: [Khalil Nasri](https://github.com/jose-Abel)
+- GitHub: [Khalil Nasri](https://github.com/NasKhalil)
 - Linkedin: [Khalil Nasri](https://www.linkedin.com/in/nasri-khalil-androdev/)
 
 ## 🤝 Contributing
