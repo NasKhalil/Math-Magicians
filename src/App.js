@@ -1,10 +1,19 @@
 import './App.css';
-import Calculator from './components/Calculator';
+import { Route, Routes } from 'react-router-dom';
+import MainHeader from './components/MainHeader';
+import Home from './pages/Home';
+import CalculatePage from './pages/CalculatePage';
+import Quotes from './pages/Quotes';
 
 function App() {
   return (
     <div className="App">
-      <Calculator />
+      <MainHeader />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/calculator" element={<CalculatePage />} />
+        <Route path="/quotes" element={<Quotes />} />
+      </Routes>
     </div>
   );
 }
