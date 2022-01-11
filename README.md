@@ -4,6 +4,11 @@
 
 - Make simple calculations.
 - Read a random math-related quote.
+
+## Live demo link
+
+Live demo [link](https://naskhalil.github.io/Math-Magicians/)
+
 ## Getting Started
 
 This is a react project, you can read more about create react app [Create React App](https://github.com/facebook/create-react-app).

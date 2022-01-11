@@ -28,3 +28,38 @@ button {
 .orange-btn {
   background-color: #f18b37;
 }
+
+/* home */
+
+.home {
+  margin: 124px;
+}
+
+/* home */
+
+/* calculator */
+
+.calculatePage {
+  display: flex;
+  justify-content: center;
+  margin: 64px;
+}
+
+/* calculator */
+
+/* quotes */
+
+.quote {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote p {
+  font-weight: 700;
+  margin: 13%;
+  font-size: 30px;
+}
+
+/* quotes */
