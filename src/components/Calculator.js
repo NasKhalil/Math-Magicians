@@ -22,7 +22,7 @@ const Calculator = () => {
 
   return (
     <div className="calc-container">
-      <div className="calc-display">{next || total || 0}</div>
+      <div data-testid="display-element" className="calc-display">{next || total || 0}</div>
       {buttonNames.map((name, i) => (
         <button key={i.toString()} type="button" onClick={handleClick} className={btnClass(i)}>
           {name}
