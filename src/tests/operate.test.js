@@ -8,4 +8,16 @@ describe('mathematical operations', () => {
   test('Subtract two numbers', () => {
     expect(operate(20, 10, '-')).toBe('10');
   });
+
+  test('Multiply two numbers', () => {
+    expect(operate(4, 3, 'x')).toBe('12');
+  });
+
+  test('Divise two numbers', () => {
+    expect(operate(6, 3, '÷')).toBe('2');
+  });
+
+  test('Use Modulo', () => {
+    expect(operate(8, 3, '%')).toEqual('2');
+  });
 });
