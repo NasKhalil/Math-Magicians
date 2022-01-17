@@ -2,7 +2,7 @@
   "name": "math_magicians",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NasKhalil.github.io/Math-Magicians",
+  "homepage": "https://mathmagiciansapp.herokuapp.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/user-event": "^13.5.0",
