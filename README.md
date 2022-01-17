@@ -7,8 +7,8 @@
 
 ## Live demo link
 
-Gitub pages live demo [link](https://naskhalil.github.io/Math-Magicians/)
-Heroku live demo [link](https://mathmagiciansapp.herokuapp.com)
+- Gitub pages live demo [link](https://naskhalil.github.io/Math-Magicians/)
+- Heroku live demo [link](https://mathmagiciansapp.herokuapp.com)
 
 ## Getting Started
 
