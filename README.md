@@ -9,6 +9,7 @@
 
 - Gitub pages live demo [link](https://naskhalil.github.io/Math-Magicians/)
 - Heroku live demo [link](https://mathmagiciansapp.herokuapp.com)
+- Netlify live demo [link](https://math-magiciansapp.netlify.app)
 
 ## Getting Started
 
